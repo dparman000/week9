@@ -1,4 +1,10 @@
 ## HoneyPot Challenge
+This weeks challenge was to build honeypot.
+ used google cloud to setup 
+ used 2 virtual machines one for admin and 1 to attack
+ used nmap ip of 2nd honeymap
+ then i was able to see external ip on attacks list
+ 
 
 ## Hours Spent: 10
 
