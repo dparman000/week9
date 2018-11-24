@@ -17,7 +17,8 @@ https://github.com/RedolentSun/mhn.git Installing from this Repo did not work
  https://github.com/HurricaneLabs/pyev/ repsoitory not found so can  not install
  i had to fork  https://github.com/RedolentSun/mhn.git to my git and then change link for pyev
  to : https://github.com/gabrielfalcao/pyev.git#egg=pye
- 
+SO FOR milestone 2 i did : sudo git clone https://github.com/dparman000/mhn.git
+
  Issue 2:
 Google cloud did not provide default firewall to open http https port and no instructions provided.
 
